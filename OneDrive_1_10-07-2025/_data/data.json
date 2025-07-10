@@ -1,0 +1,30 @@
+{
+  "soundtrack": {
+    "lobby": "sfx/soundtrack/lobby.mp3"
+  },
+  "sfx": {
+    "error": "sfx/error.mp3"
+  },
+  "menu": "sprites/loading_screen.jpg",
+  "target": "sprites/target.png",
+  "hero": "sprites/Characters(100x100)/Soldier/Soldier/Soldier-#action#.png",
+  "arrow": "sprites/Characters(100x100)/Soldier/Arrow(projectile)/Arrow01(100x100).png",
+  "enemies": {
+    "orc": "sprites/Characters(100x100)/Orc/Orc with shadows/Orc-#action#.png"
+  },
+  "load": [
+    "sprites/bar_1.png",
+    "sprites/bar_2.png"
+  ],
+  "background": [
+    "sprites/interior free/floor_wood.png",
+    "sprites/interior free/floor_bamboo.png"
+  ],
+  "background_json": [
+    {
+      "pic": "sprites/interior free/houses.png",
+      "json": "sprites/interior free/house.json"
+    }
+  ],
+  "local_data": "local.db"
+}
